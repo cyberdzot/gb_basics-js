@@ -72,7 +72,7 @@ let divide = (number1, number2) => {
     return number1 / number2;
 }
 
-console.log(sum(2, 6));			// 8
-console.log(difference(2, 6));	// 4
-console.log(multiply(2, 6));	// 12
-console.log(divide(2, 6));		// 0.3...
+console.log(sum(2, 6));         // 8
+console.log(difference(2, 6))   // 4
+console.log(multiply(2, 6));    // 12
+console.log(divide(2, 6));      // 0.3...
